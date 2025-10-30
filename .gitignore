@@ -1,0 +1,36 @@
+# Environment variables
+.env
+backend/.env
+
+# Python
+backend/.venv/
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+
+# Database files (DO NOT COMMIT!)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+backend/story.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+npm-debug.log*
+yarn-error.log*
+
+# Media (keep empty files only)
+media/videos/*
+media/frames/*
+!media/videos/.gitkeep
+!media/frames/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
