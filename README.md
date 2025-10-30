@@ -2,6 +2,8 @@
 
 A proof-of-concept web app for creating branching video stories with Sora. Generate a clip, choose from 3 AI-suggested actions, then generate the next clip using the last frame as visual reference. Repeat to build your story.
 
+https://github.com/user-attachments/assets/18870c15-a4ae-4fa9-aa8e-42dea028356a
+
 ## Prerequisites
 
 - Python 3.11+
